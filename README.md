@@ -43,9 +43,9 @@
 
 # 📂 Projects
 
-### 🤖 AI Chat Widget &nbsp;·&nbsp; *Vanilla JS · WebSockets · Datadog*
+### 🤖 AI Chat Widget &nbsp;·&nbsp; *Vanilla JS · WebSockets*
 Embeddable support widget running across 25+ client sites with zero external dependencies.
-Isolated DOM architecture ensures zero conflicts with host pages. 28KB gzipped, real-time messaging, full Datadog instrumentation.
+Isolated DOM architecture ensures zero conflicts with host pages. 28KB gzipped, real-time messaging.
 
 ### 🔀 Automation Flow Builder &nbsp;·&nbsp; *React · React Flow · TypeScript · Zustand*
 Drag-and-drop campaign builder for WhatsApp & email with conditional branching, delays,
